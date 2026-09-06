@@ -5,7 +5,3 @@
 # Технологии и инструменты
 Python, SQL
 
-<div id="header" align="center">
-<h1>hello world</h1>
-<h3>More information</h3>
-</div>
